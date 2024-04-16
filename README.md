@@ -1,6 +1,6 @@
 # Finans
 
-Finans é uma página web desenvolvida como um projeto do curso Desenvolvimento Web Completo, da Udemy. O projeto visa fornecer uma interface simples e responsiva para um website de finanças pessoais.
+Finans é uma página web desenvolvida como um projeto do curso Desenvolvimento Web Completo, da Udemy. O projeto tem como objetivo demonstrar habilidades principalmente em Bootstrap, fornecendo uma interface simples e responsiva para um website de finanças pessoais.
 
 ## ⌨️ Linguagens e Ferramentas
 - HTML5
